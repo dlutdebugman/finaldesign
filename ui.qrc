@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/image/1.png</file>
+        <file>Resources/image/2.png</file>
+        <file>Resources/image/3.png</file>
+        <file>Resources/image/Analysis.png</file>
+        <file>Resources/image/battery.png</file>
+        <file>Resources/image/help.png</file>
+        <file>Resources/image/information.png</file>
+        <file>Resources/image/kjourna.png</file>
+        <file>Resources/image/log.png</file>
+        <file>Resources/image/statistics.png</file>
+        <file>Resources/image/Status.png</file>
+        <file>Resources/image/system.png</file>
+        <file>Resources/MyTitle/close.png</file>
+        <file>Resources/MyTitle/max.png</file>
+        <file>Resources/MyTitle/min.png</file>
+        <file>Resources/MyTitle.css</file>
+        <file>Resources/image/Persona.png</file>
+        <file>Resources/image/fontawesome-webfont.ttf</file>
+        <file>Resources/image/header.jpg</file>
+        <file>Resources/MyMessageBox/information.png</file>
+        <file>Resources/MyMessageBox/MyMessageBox.css</file>
+        <file>Resources/MyMessageBox/question.png</file>
+        <file>Resources/MyMessageBox/warnning.png</file>
+        <file>Resources/MyMessageBox/WindowIcon.png</file>
+        <file>Resources/image/timg.gif</file>
+    </qresource>
+</RCC>
